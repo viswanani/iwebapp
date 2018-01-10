@@ -20,12 +20,12 @@
   	<snapshotRepository>
   		<id>jfrog</id>
   		<name>iwebapp snapshot</name>
-  		<url>http://bviswanath:8081/artifactory/iwebapp_LCSNAPSHOT</url>
+  		<url>http://bviswanath:8081/artifactory/iwebapp-lr</url>
   	</snapshotRepository>
   	<repository>
   		<id>jfrog</id>
   		<name>iwebapp snapshot</name>
-  		<url>http://bviswanath:8081/artifactory/iwebapp_LCRELEASE</url>
+  		<url>http://bviswanath:8081/artifactory/iwebapp-lr</url>
   	</repository>
   </distributionManagement>
   <build>
